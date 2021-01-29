@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/.github.io/rustservers/static/css/main.d9b95d79.chunk.css",
-    "main.js": "/.github.io/rustservers/static/js/main.f3bdb0c7.chunk.js",
-    "main.js.map": "/.github.io/rustservers/static/js/main.f3bdb0c7.chunk.js.map",
-    "runtime-main.js": "/.github.io/rustservers/static/js/runtime-main.349e9dda.js",
-    "runtime-main.js.map": "/.github.io/rustservers/static/js/runtime-main.349e9dda.js.map",
-    "static/js/2.544b1ce8.chunk.js": "/.github.io/rustservers/static/js/2.544b1ce8.chunk.js",
-    "static/js/2.544b1ce8.chunk.js.map": "/.github.io/rustservers/static/js/2.544b1ce8.chunk.js.map",
-    "static/js/3.ea60d434.chunk.js": "/.github.io/rustservers/static/js/3.ea60d434.chunk.js",
-    "static/js/3.ea60d434.chunk.js.map": "/.github.io/rustservers/static/js/3.ea60d434.chunk.js.map",
-    "index.html": "/.github.io/rustservers/index.html",
-    "static/css/main.d9b95d79.chunk.css.map": "/.github.io/rustservers/static/css/main.d9b95d79.chunk.css.map",
-    "static/js/2.544b1ce8.chunk.js.LICENSE.txt": "/.github.io/rustservers/static/js/2.544b1ce8.chunk.js.LICENSE.txt"
+    "main.css": "/.github.io/gamestats/static/css/main.d9b95d79.chunk.css",
+    "main.js": "/.github.io/gamestats/static/js/main.f3bdb0c7.chunk.js",
+    "main.js.map": "/.github.io/gamestats/static/js/main.f3bdb0c7.chunk.js.map",
+    "runtime-main.js": "/.github.io/gamestats/static/js/runtime-main.d615e2d2.js",
+    "runtime-main.js.map": "/.github.io/gamestats/static/js/runtime-main.d615e2d2.js.map",
+    "static/js/2.544b1ce8.chunk.js": "/.github.io/gamestats/static/js/2.544b1ce8.chunk.js",
+    "static/js/2.544b1ce8.chunk.js.map": "/.github.io/gamestats/static/js/2.544b1ce8.chunk.js.map",
+    "static/js/3.ea60d434.chunk.js": "/.github.io/gamestats/static/js/3.ea60d434.chunk.js",
+    "static/js/3.ea60d434.chunk.js.map": "/.github.io/gamestats/static/js/3.ea60d434.chunk.js.map",
+    "index.html": "/.github.io/gamestats/index.html",
+    "static/css/main.d9b95d79.chunk.css.map": "/.github.io/gamestats/static/css/main.d9b95d79.chunk.css.map",
+    "static/js/2.544b1ce8.chunk.js.LICENSE.txt": "/.github.io/gamestats/static/js/2.544b1ce8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.349e9dda.js",
+    "static/js/runtime-main.d615e2d2.js",
     "static/js/2.544b1ce8.chunk.js",
     "static/css/main.d9b95d79.chunk.css",
     "static/js/main.f3bdb0c7.chunk.js"
