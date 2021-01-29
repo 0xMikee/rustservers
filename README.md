@@ -1,2 +1,2 @@
 # rustservers
-# Rust servers info. (name/players/last wipe)
+Rust servers info. (name/players/last wipe)
